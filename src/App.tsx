@@ -1,4 +1,3 @@
-import "./App.css";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import AppLayout from "./Layout/AppLayout";
 import Home from "./pages/Home";
@@ -14,7 +13,6 @@ const appRouter = createBrowserRouter([
       },
     ],
   },
- 
 ]);
 
 function App() {

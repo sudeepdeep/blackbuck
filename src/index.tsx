@@ -16,7 +16,7 @@ root.render(
   <Provider store={store}>
     <ToastContainer />
     <Helmet
-      appTitle="BILLFLOW"
+      appTitle="HOME | BLACKBUCK"
       favicon={
         "https://firebasestorage.googleapis.com/v0/b/woid-582b2.appspot.com/o/snapnews.png?alt=media&token=ecf9f9ce-cc18-4035-8f44-ba7339640204"
       }
